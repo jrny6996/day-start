@@ -3,4 +3,4 @@
 Feel free to comment on any helpful features you'd like to be added to the project
 
 ## Upcoming improvements
-GUI for task selection
+* GUI for task selection
